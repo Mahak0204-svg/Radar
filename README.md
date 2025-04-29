@@ -14,7 +14,7 @@ This project delivers all of that, combining the power of embedded systems with 
 
 **Here's a glimpse of the radar interface:**
 
-![Radar Interface](images/radar_interface.png)
+![Radar Interface](https://github.com/Mahak0204-svg/Radar/blob/f35f1aa21916efc91b0d29b07ac56e83d933e0da/Radar-interface.jpe)
 
 **🔥 Why This Project Will Blow Your Mind 🔥**
 
@@ -34,19 +34,16 @@ This project delivers all of that, combining the power of embedded systems with 
 
 **Let's take a look at the circuit:**
 
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram] (https://github.com/Mahak0204-svg/Radar/blob/f35f1aa21916efc91b0d29b07ac56e83d933e0da/circuit_diagram.png)
 
 **🛠️ Gear Up: Hardware You'll Need 🛠️**
+![Components] (https://github.com/Mahak0204-svg/Radar/blob/31ae3d6a99e44dff2b7a7c5955be0d96c792fca4/Components.jpeg)
 
 * ESP32 DevKit V1 (or similar)
 * HC-SR04 Ultrasonic Sensor
 * SG90 Servo Motor
 * Breadboard
 * Jumper Wires
-
-**Here's how it all comes together:**
-
-![Hardware Setup](images/hardware_setup.jpg)
 
 **✨ Why This Project Is Your Next Obsession ✨**
 
@@ -64,10 +61,8 @@ This project delivers all of that, combining the power of embedded systems with 
 
 **See it in action!**
 
-![Radar Demo](images/radar_demo.gif)
+!You can download the project demo video here: [Radar Demo](https://github.com/Mahak0204-svg/Radar/blob/acf36e89357b29d5928fab57b2732762920238a9/Radar%20demo%20video.mp4)
 
 **Ready to embark on this radar adventure? Let's build something amazing!**
 
-## Project Demo
 
-You can download the project demo video here: [demo.mp4](https://github.com/Mahak0204-svg/Radar/blob/58123e3b5939cfca588d7b383d81a3634ff7c572/Radar.mp4)
