@@ -1,5 +1,9 @@
 # 📡✨ ESP32 Web-Powered Radar: See the Unseen! ✨📡
 
+## Project Demo
+
+You can download the project demo video here: [demo.mp4](media/demo.mp4)
+
 **Ever wanted to build your own radar? Now you can!**
 
 This project isn't just code; it's an *experience*. We're diving into the fascinating world of radar technology, bringing it to life with the ESP32 and a stunning web interface. Get ready to watch objects appear on your screen as if by magic!
