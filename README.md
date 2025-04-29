@@ -14,7 +14,7 @@ This project delivers all of that, combining the power of embedded systems with 
 
 **Here's a glimpse of the radar interface:**
 
-![Radar Interface](https://github.com/Mahak0204-svg/Radar/blob/f35f1aa21916efc91b0d29b07ac56e83d933e0da/Radar-interface.jpe)
+![Radar Interface](https://github.com/Mahak0204-svg/Radar/blob/40cc68bd5e608258125dc001689737feccfe7cdd/Radar-interface.jpeg)
 
 **🔥 Why This Project Will Blow Your Mind 🔥**
 
@@ -34,10 +34,12 @@ This project delivers all of that, combining the power of embedded systems with 
 
 **Let's take a look at the circuit:**
 
-![Circuit Diagram] (https://github.com/Mahak0204-svg/Radar/blob/f35f1aa21916efc91b0d29b07ac56e83d933e0da/circuit_diagram.png)
+![Circuit Diagram](https://github.com/Mahak0204-svg/Radar/blob/f35f1aa21916efc91b0d29b07ac56e83d933e0da/circuit_diagram.png)
 
 **🛠️ Gear Up: Hardware You'll Need 🛠️**
-![Components] (https://github.com/Mahak0204-svg/Radar/blob/31ae3d6a99e44dff2b7a7c5955be0d96c792fca4/Components.jpeg)
+
+
+![Components](https://github.com/Mahak0204-svg/Radar/blob/31ae3d6a99e44dff2b7a7c5955be0d96c792fca4/Components.jpeg)
 
 * ESP32 DevKit V1 (or similar)
 * HC-SR04 Ultrasonic Sensor
@@ -61,7 +63,7 @@ This project delivers all of that, combining the power of embedded systems with 
 
 **See it in action!**
 
-!You can download the project demo video here: [Radar Demo](https://github.com/Mahak0204-svg/Radar/blob/acf36e89357b29d5928fab57b2732762920238a9/Radar%20demo%20video.mp4)
+You can download the project demo video here: [Radar Demo](https://github.com/Mahak0204-svg/Radar/blob/acf36e89357b29d5928fab57b2732762920238a9/Radar%20demo%20video.mp4)
 
 **Ready to embark on this radar adventure? Let's build something amazing!**
 
