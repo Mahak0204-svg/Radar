@@ -1,8 +1,4 @@
-# 📡✨ ESP32 Web-Powered Radar: See the Unseen! ✨📡
-
-## Project Demo
-
-You can download the project demo video here: [demo.mp4](https://github.com/Mahak0204-svg/Radar/blob/58123e3b5939cfca588d7b383d81a3634ff7c572/Radar.mp4)
+#   📡✨ ESP32 Web-Powered Radar: See the Unseen! ✨📡
 
 **Ever wanted to build your own radar? Now you can!**
 
@@ -15,6 +11,10 @@ This project isn't just code; it's an *experience*. We're diving into the fascin
 * Building a project that's both educational *and* seriously cool.
 
 This project delivers all of that, combining the power of embedded systems with the elegance of web visualization.
+
+**Here's a glimpse of the radar interface:**
+
+![Radar Interface](images/radar_interface.png)
 
 **🔥 Why This Project Will Blow Your Mind 🔥**
 
@@ -32,6 +32,10 @@ This project delivers all of that, combining the power of embedded systems with 
 * **ESP32 Code (`*.ino`):** The complete Arduino code that orchestrates the sensors, servo, and web server. It's your key to unlocking the radar's secrets.
 * **Web Visualization (`html.h`):** The HTML and Processing.js code that creates the dynamic and engaging radar display.
 
+**Let's take a look at the circuit:**
+
+![Circuit Diagram](images/circuit_diagram.png)
+
 **🛠️ Gear Up: Hardware You'll Need 🛠️**
 
 * ESP32 DevKit V1 (or similar)
@@ -39,6 +43,10 @@ This project delivers all of that, combining the power of embedded systems with 
 * SG90 Servo Motor
 * Breadboard
 * Jumper Wires
+
+**Here's how it all comes together:**
+
+![Hardware Setup](images/hardware_setup.jpg)
 
 **✨ Why This Project Is Your Next Obsession ✨**
 
@@ -54,6 +62,12 @@ This project delivers all of that, combining the power of embedded systems with 
     * A slick mobile app interface
 * **Experience the "Aha!" Moment:** There's nothing quite like seeing your own radar system come to life. It's a project that's both challenging and incredibly rewarding.
 
+**See it in action!**
+
+![Radar Demo](images/radar_demo.gif)
+
 **Ready to embark on this radar adventure? Let's build something amazing!**
 
-**[Insert a captivating GIF or video of the radar in action here! This is *essential* for peak attractiveness.]**
+## Project Demo
+
+You can download the project demo video here: [demo.mp4](https://github.com/Mahak0204-svg/Radar/blob/58123e3b5939cfca588d7b383d81a3634ff7c572/Radar.mp4)
