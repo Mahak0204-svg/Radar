@@ -2,7 +2,7 @@
 
 ## Project Demo
 
-You can download the project demo video here: [demo.mp4](media/demo.mp4)
+You can download the project demo video here: [demo.mp4](https://github.com/Mahak0204-svg/Radar/blob/58123e3b5939cfca588d7b383d81a3634ff7c572/Radar.mp4)
 
 **Ever wanted to build your own radar? Now you can!**
 
